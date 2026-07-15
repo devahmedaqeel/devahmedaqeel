@@ -141,8 +141,6 @@ Complete digital solutions for real businesses — e-commerce sites, finance das
 
 ## 🚀 Featured Projects
 
-> 💡 _Replace the `#` placeholders with your live demo & repository links._
-
 | 🏷️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
 | :--- | :--- | :--- | :---: |
 | **🩺 MediReport AI** | Medical lab report scanner — OCR extracts values from lab reports, AI explains results in plain language, with a companion mobile app | `React Native` `OCR` `AI APIs` `Node.js` | [Demo](#) · [Repo](#) |
@@ -362,53 +360,6 @@ graph LR
 <sub>🟩 The snake eats my daily contributions — updated automatically every night via GitHub Actions</sub>
 
 </div>
-
-<details>
-<summary><b>⚙️ Snake Setup — workflow file (click to expand)</b></summary>
-<br/>
-
-> 📌 **Note:** Yeh code README mein sirf reference ke liye hai — asli working file isi repo mein
-> `.github/workflows/snake.yml` par pehle se maujood hai. ✅ Push karte hi snake khud generate ho jayegi.
-> Bas **Settings → Actions → General → Workflow permissions → "Read and write"** ON hona chahiye.
-
-```yaml
-name: Generate Contribution Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"   # runs daily at midnight UTC
-  workflow_dispatch:        # allows manual run from the Actions tab
-  push:
-    branches:
-      - main
-      - master
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: Generate snake animation
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?palette=github
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
