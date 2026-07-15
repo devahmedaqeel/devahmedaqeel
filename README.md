@@ -30,6 +30,15 @@
 
 <br/>
 
+<!-- ===== QUICK NAVIGATION ===== -->
+<div align="center">
+
+**[🧑‍💻 About](#-about-me)** • **[💼 What I Do](#-what-i-do)** • **[🚀 Projects](#-featured-projects)** • **[🛠️ Tech Stack](#%EF%B8%8F-tech-arsenal)** • **[📊 Stats](#-github-analytics)** • **[🐍 Snake](#-contribution-snake)** • **[🎯 Roadmap](#-current-focus--2026-roadmap)** • **[🤝 Hire Me](#-lets-work-together)**
+
+</div>
+
+<br/>
+
 <!-- ============================================================ -->
 <!--                         ABOUT ME                             -->
 <!-- ============================================================ -->
@@ -334,12 +343,70 @@ graph LR
 
 </div>
 
-<!-- ===== CONTRIBUTION SNAKE (requires the snake workflow — see notes) ===== -->
+<!-- ============================================================ -->
+<!--                 CONTRIBUTION SNAKE 🐍                        -->
+<!--   Auto-switches between dark & light mode on GitHub.         -->
+<!--   Requires the snake.yml workflow (see .github/workflows).   -->
+<!-- ============================================================ -->
+
+## 🐍 Contribution Snake
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devahmedaqeel/devahmedaqeel/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devahmedaqeel/devahmedaqeel/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devahmedaqeel/devahmedaqeel/output/github-contribution-grid-snake.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/devahmedaqeel/devahmedaqeel/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake eating my GitHub contributions" />
+</picture>
+
+<sub>🟩 The snake eats my daily contributions — updated automatically every night via GitHub Actions</sub>
 
 </div>
+
+<details>
+<summary><b>⚙️ Snake Setup — workflow file (click to expand)</b></summary>
+<br/>
+
+> 📌 **Note:** Yeh code README mein sirf reference ke liye hai. Snake chalne ke liye yeh code ek **alag file** mein hona zaroori hai:
+> `.github/workflows/snake.yml` — isi repo ke andar. Phir **Settings → Actions → General → Workflow permissions → "Read and write"** select karein, aur **Actions tab se ek dafa manually run** karein.
+
+```yaml
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # allows manual run from the Actions tab
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: devahmedaqeel
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+</details>
 
 ---
 
