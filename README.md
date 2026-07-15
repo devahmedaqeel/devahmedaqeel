@@ -1,49 +1,387 @@
-<!-- ===== BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Ahmed%20Aqeel&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20Application%20Developer&descSize=18&descAlignY=60&animation=fadeIn" alt="Ahmed Aqeel banner" />
+<!-- ============================================================ -->
+<!--                    AHMED AQEEL — PROFILE                     -->
+<!--     Full Stack Developer | AI Application Developer          -->
+<!-- ============================================================ -->
 
-<!-- ===== TYPING HEADER ===== -->
+<!-- ===== ANIMATED HEADER BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,35:203A43,70:2C5364,100:0F2027&height=220&section=header&text=Ahmed%20Aqeel&fontColor=ffffff&fontSize=56&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Application%20Developer%20%E2%80%A2%20Product%20Builder&descSize=17&descAlignY=58&animation=fadeIn" alt="Ahmed Aqeel banner" />
+
+<!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Full+Stack+Developer+%F0%9F%9A%80;AI+Application+Developer+%F0%9F%A4%96;React+%7C+Next.js+%7C+React+Native;Turning+ideas+into+products+end-to-end)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;AI+Application+Developer+%F0%9F%A4%96;React+%7C+Next.js+%7C+React+Native+%7C+Node.js;Building+Complete+Digital+Products+End-to-End;Open+to+Freelance+%26+Remote+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
-<a href="https://www.linkedin.com/in/ahmed-aqeel-2a0090271"><img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="mailto:engrahmedaqeel14@gmail.com"><img src="https://img.shields.io/badge/Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<img src="https://komarev.com/ghpvc/?username=devahmedaqeel&label=Profile%20Views&color=2C5364&style=for-the-badge" alt="Profile views" />
+</div>
+
+<!-- ===== QUICK ACTION BUTTONS ===== -->
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ahmed-aqeel-2a0090271"><img src="https://img.shields.io/badge/💼_Let's_Connect-0A66C2?style=for-the-badge&logoColor=white" alt="Connect" /></a>&nbsp;
+<a href="mailto:engrahmedaqeel14@gmail.com"><img src="https://img.shields.io/badge/📩_Hire_Me-D14836?style=for-the-badge&logoColor=white" alt="Hire Me" /></a>&nbsp;
+<a href="https://github.com/devahmedaqeel?tab=repositories"><img src="https://img.shields.io/badge/🚀_View_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="My Work" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=devahmedaqeel&label=Profile+Views&color=36BCF7&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/devahmedaqeel?label=Followers&style=for-the-badge&color=2C5364&logo=github" alt="Followers" />
+<img src="https://img.shields.io/badge/Open_to_Work-✔️_Yes-2ea44f?style=for-the-badge" alt="Open to work" />
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                         ABOUT ME                             -->
+<!-- ============================================================ -->
+
+## 🧑‍💻 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
+
+I'm **Ahmed Aqeel** — a Software Engineering student and **full-stack product builder** who takes ideas from **concept → design → development → deployment**. I work at the intersection of modern web engineering and AI, using intelligent tooling to ship complete, production-ready digital products fast.
+
+My approach is **logic-driven**: deeply understand the problem, architect the right solution, then execute with precision — whether that's a responsive web platform, a cross-platform mobile app, or an AI-powered system.
+
+- 🎓 **BS Software Engineering** student
+- 🚀 Founder mindset — building **complete digital products end-to-end**
+- 🤖 Specialized in **AI API integrations** (Claude, Gemini, Groq) inside real applications
+- 📱 Cross-platform development with **React Native & Expo**
+- 🌱 Currently leveling up in **Cloud, Docker, Kubernetes & DevOps**
+- 💼 Open to **freelance projects** and **remote roles**
+- 📫 Reach me: **engrahmedaqeel14@gmail.com**
+- ⚡ Fun fact: I believe the best code is the code that solves a real problem
+
+<br clear="right"/>
+
+```typescript
+interface Developer {
+  name: string;
+  role: string[];
+  architecture: string[];
+  currentFocus: string[];
+  philosophy: string;
+}
+
+const ahmedAqeel: Developer = {
+  name: "Ahmed Aqeel",
+  role: ["Full Stack Developer", "AI Application Developer", "Mobile Developer"],
+  architecture: ["Frontend-first", "API-driven", "Serverless", "AI-augmented"],
+  currentFocus: ["Cloud & DevOps", "System Design", "Scalable AI Products"],
+  philosophy: "Understand the problem first — then build the solution.",
+};
+```
+
+---
+
+<!-- ============================================================ -->
+<!--                       WHAT I DO                              -->
+<!-- ============================================================ -->
+
+## 💼 What I Do
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Full Stack Web Development
+End-to-end web applications with **React, Next.js, Node.js & Express** — from pixel-perfect responsive UIs to secure, scalable REST APIs, authentication, and database design.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI-Powered Applications
+Integrating **Claude, Gemini & Groq APIs** into real products — chatbots, document intelligence, OCR pipelines, AI forecasting, and intelligent automation workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 Cross-Platform Mobile Apps
+Native-quality iOS & Android apps built with **React Native + Expo**, connected to Firebase/Supabase backends with real-time data and push notifications.
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Deployment & Cloud
+Shipping to production on **Vercel, Netlify, Render, AWS & Azure** — with CI/CD via GitHub Actions, containerization with Docker, and performance optimization.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎨 UI/UX & 3D Experiences
+Modern, conversion-focused interfaces with **TailwindCSS, Figma & Three.js** — including interactive 3D elements and micro-animations that make products memorable.
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 Business Solutions
+Complete digital solutions for real businesses — e-commerce sites, finance dashboards, restaurant menu systems, and custom internal tools.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ============================================================ -->
+<!--                    FEATURED PROJECTS                         -->
+<!-- ============================================================ -->
+
+## 🚀 Featured Projects
+
+> 💡 _Replace the `#` placeholders with your live demo & repository links._
+
+| 🏷️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
+| :--- | :--- | :--- | :---: |
+| **🩺 MediReport AI** | Medical lab report scanner — OCR extracts values from lab reports, AI explains results in plain language, with a companion mobile app | `React Native` `OCR` `AI APIs` `Node.js` | [Demo](#) · [Repo](#) |
+| **🤖 JARVIS** | Iron Man–style AI assistant with voice control, automation integrations, and a futuristic animated UI | `React` `Web Speech` `AI APIs` `Three.js` | [Demo](#) · [Repo](#) |
+| **💰 Ledger (OFM)** | Organization finance management platform with interactive charts, reporting, and AI-powered financial forecasting | `React` `Node.js` `Charts` `AI` | [Demo](#) · [Repo](#) |
+| **🍽️ Mensa** | Cloud-based restaurant digital menu management system — real-time menu updates, QR access, and admin dashboard | `Next.js` `Supabase` `Tailwind` | [Demo](#) · [Repo](#) |
+| **🪟 Blinds World Ltd** | Complete business website redesign for a window blinds company — modern, fast, and conversion-focused | `Next.js` `Tailwind` `SEO` | [Demo](#) · [Repo](#) |
+| **🛰️ Dev Orbit Tech** | Agency platform showcasing AI-powered full-stack product development services | `Next.js` `Three.js` `AI` | [Demo](#) · [Repo](#) |
+
+<div align="center">
+
+[![More Projects](https://img.shields.io/badge/🔎_Explore_All_Repositories-2C5364?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devahmedaqeel?tab=repositories)
 
 </div>
 
 ---
 
-## 👋 About Me
+<!-- ============================================================ -->
+<!--                       TECH ARSENAL                           -->
+<!-- ============================================================ -->
 
-I'm **Ahmed Aqeel** — a Software Engineering student and full-stack developer who builds complete digital products from concept to deployment. I combine solid engineering fundamentals with modern AI tooling to ship fast, solve real problems, and turn ideas into working software.
+## 🛠️ Tech Arsenal
 
-```javascript
-const ahmed = {
-  role: ["Full Stack Developer", "AI Application Developer", "React Native Developer"],
-  stack: ["React", "Next.js", "React Native", "Node.js", "TypeScript"],
-  learning: ["Cloud", "Docker", "DevOps", "Kubernetes"],
-  mindset: "Logic-driven — understand the problem, then build the solution",
-  focus: "Shipping real-world products end-to-end",
-  openTo: ["Freelance projects", "Remote roles", "Collaboration"],
-};
-```
+<details open>
+<summary><b>👨‍💻 Languages</b></summary>
+<br/>
 
-- 🔭 Building AI-powered full-stack products end-to-end
-- 🌱 Deepening my skills in **Cloud, Docker, DevOps & System Design**
-- 💡 Passionate about solving real-world problems with technology
-- 🤝 Open to **freelance work** and **remote opportunities**
-- 📫 Reach me at **engrahmedaqeel14@gmail.com**
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📱 Mobile Development</b></summary>
+<br/>
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend Development</b></summary>
+<br/>
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=openapiinitiative&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases & ORMs</b></summary>
+<br/>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI / Machine Learning</b></summary>
+<br/>
+
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud, DevOps & Deployment</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🧰 Tools, Testing & Design</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</details>
 
 ---
 
-## 🌐 Connect With Me
+<!-- ============================================================ -->
+<!--                     HOW I BUILD                              -->
+<!-- ============================================================ -->
+
+## 🧭 My Development Workflow
+
+```mermaid
+graph LR
+    A[💡 Understand<br/>the Problem] --> B[📐 Architect<br/>the Solution]
+    B --> C[🎨 Design<br/>UI/UX]
+    C --> D[⚡ Build<br/>Fast & Clean]
+    D --> E[🧪 Test &<br/>Refine]
+    E --> F[🚀 Deploy to<br/>Production]
+    F --> G[📈 Iterate &<br/>Improve]
+    G -.-> A
+```
+
+> **Logic first, tools second.** I focus on deeply understanding *what* needs to be built and *why* — then leverage the best modern tooling (including AI) to execute at maximum speed without sacrificing quality.
+
+---
+
+<!-- ============================================================ -->
+<!--                    GITHUB ANALYTICS                          -->
+<!-- ============================================================ -->
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devahmedaqeel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117" alt="GitHub Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devahmedaqeel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&bg_color=0d1117" alt="Top Languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=devahmedaqeel&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=devahmedaqeel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=devahmedaqeel&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Contribution Graph" />
+
+</div>
+
+<!-- ===== CONTRIBUTION SNAKE (requires the snake workflow — see notes) ===== -->
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devahmedaqeel/devahmedaqeel/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+
+</div>
+
+---
+
+<!-- ============================================================ -->
+<!--                  CURRENTLY / ROADMAP                         -->
+<!-- ============================================================ -->
+
+## 🎯 Current Focus & 2026 Roadmap
+
+| Status | Goal |
+| :---: | :--- |
+| 🟢 | Mastering **Docker & containerized deployments** |
+| 🟢 | Building & shipping **AI-powered SaaS products** |
+| 🟡 | Deep-diving into **Kubernetes & cloud architecture (AWS/Azure)** |
+| 🟡 | Strengthening **system design & scalability patterns** |
+| 🔵 | Growing **Dev Orbit Tech** into a full product studio |
+| 🔵 | Contributing to **open-source AI tooling** |
+
+`🟢 In progress` `🟡 Up next` `🔵 Long-term`
+
+---
+
+<!-- ============================================================ -->
+<!--                   LET'S WORK TOGETHER                        -->
+<!-- ============================================================ -->
+
+## 🤝 Let's Work Together
+
+<div align="center">
+
+**Have a project in mind? Need a full-stack developer who ships complete products?**
+
+I'm currently available for **freelance projects** and **remote opportunities** — from MVPs and business websites to AI-powered applications and mobile apps.
+
+<br/>
+
+<a href="mailto:engrahmedaqeel14@gmail.com"><img src="https://img.shields.io/badge/📧_engrahmedaqeel14@gmail.com-D14836?style=for-the-badge&logoColor=white" alt="Email me" /></a>
+
+<br/><br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-aqeel-2a0090271)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mrahmedaqeel7)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engrahmedaqeel14@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a.aqeel14?igsh=ZTltZ3Jlc28xazRh&utm_source=qr)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/19PssU8jxG/?mibextid=wwXIfr)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ahmedaqeel_)
@@ -53,130 +391,22 @@ const ahmed = {
 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Mobile**
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Databases & ORM**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**DevOps & Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-**Tools & Design**
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-> _Add your live links and repo URLs below to showcase your best work._
-
-| Project | Description | Tech |
-| :--- | :--- | :--- |
-| **Dev Orbit Tech** | AI-powered agency platform for building complete digital products | `Next.js` `Node.js` `AI APIs` |
-| **MediReport AI** | Medical lab report scanner with OCR and a companion mobile app | `React Native` `OCR` `AI` |
-| **JARVIS** | JARVIS-style AI assistant with voice control and automation | `React` `AI APIs` `Voice` |
-| **Ledger (OFM)** | Organization finance manager with charts & AI forecasting | `React` `Node.js` `Charts` |
-| **Mensa** | Cloud-based restaurant digital menu management system | `Next.js` `Supabase` |
-
-<!-- Tip: replace project names with links, e.g. [Project Name](https://github.com/devahmedaqeel/repo) -->
-
----
-
-## 📊 GitHub Analytics
+<!-- ============================================================ -->
+<!--                        FOOTER                                -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devahmedaqeel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devahmedaqeel&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="Top Languages" />
+### ⚡ _"Understand the problem first — then build the solution."_
 
-<img src="https://streak-stats.demolab.com?user=devahmedaqeel&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=devahmedaqeel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=devahmedaqeel&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+<br/>
 
-</div>
+**⭐ If you find my work interesting, consider starring a repo — it helps a lot!**
 
----
-
-<div align="center">
-
-### 💬 _"Understand the problem first — then build the solution."_
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,35:2C5364,70:203A43,100:0F2027&height=130&section=footer" alt="footer" />
 
 </div>
