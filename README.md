@@ -324,8 +324,8 @@ graph LR
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devahmedaqeel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117" alt="GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devahmedaqeel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&bg_color=0d1117" alt="Top Languages" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=devahmedaqeel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117" alt="GitHub Stats" />
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=devahmedaqeel&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&bg_color=0d1117" alt="Top Languages" />
 
 <br/><br/>
 
@@ -333,7 +333,7 @@ graph LR
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=devahmedaqeel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=devahmedaqeel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 
 <br/><br/>
 
