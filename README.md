@@ -503,6 +503,6 @@ I'm currently available for **freelance projects** and **remote opportunities** 
 
 **⭐ If you find my work interesting, consider starring a repo — it helps a lot!**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,35:2C5364,70:203A43,100:0F2027&height=130&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e1b4b,80:4c1d95,100:0ea5e9&height=130&section=footer" alt="footer" />
 
 </div>
