@@ -386,6 +386,13 @@ graph LR
     E --> F[🚀 Deploy to<br/>Production]
     F --> G[📈 Iterate &<br/>Improve]
     G -.-> A
+
+    classDef default fill:#0f172a,stroke:#30363d,stroke-width:1px,color:#c9d1d9,font-family:'Outfit',font-size:13px;
+    classDef active fill:#1e1b4b,stroke:#0ea5e9,stroke-width:1.5px,color:#ffffff,font-family:'Outfit',font-size:13px;
+    class A,B,C,D,E,F,G active;
+
+    linkStyle 0,1,2,3,4,5 stroke:#0ea5e9,stroke-width:2px;
+    linkStyle 6 stroke:#64748b,stroke-dasharray: 5 5,stroke-width:1.5px;
 ```
 
 > **Logic first, tools second.** I focus on deeply understanding *what* needs to be built and *why* — then leverage the best modern tooling (including AI) to execute at maximum speed without sacrificing quality.
