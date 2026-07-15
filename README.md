@@ -1,15 +1,15 @@
 <!-- ============================================================ -->
 <!--                    AHMED AQEEL — PROFILE                     -->
-<!--     Full Stack Developer | AI Application Developer          -->
+<!--                  AI Full Stack Developer                     -->
 <!-- ============================================================ -->
 
 <!-- ===== ANIMATED HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,35:203A43,70:2C5364,100:0F2027&height=220&section=header&text=Ahmed%20Aqeel&fontColor=ffffff&fontSize=56&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Application%20Developer%20%E2%80%A2%20Product%20Builder&descSize=17&descAlignY=58&animation=fadeIn" alt="Ahmed Aqeel banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,40:1e1b4b,80:4c1d95,100:0ea5e9&height=220&section=header&text=Ahmed%20Aqeel&fontColor=ffffff&fontSize=56&fontAlignY=35&desc=AI%20Full%20Stack%20Developer&descSize=19&descAlignY=58&animation=fadeIn" alt="Ahmed Aqeel banner" />
 
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%F0%9F%8E%93;Full+Stack+Developer+%F0%9F%9A%80;AI+Application+Developer+%F0%9F%A4%96;React+%7C+Next.js+%7C+React+Native+%7C+Node.js;Building+Complete+Digital+Products+End-to-End;Open+to+Freelance+%26+Remote+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%F0%9F%8E%93;AI+Full+Stack+Developer+%F0%9F%A4%96%F0%9F%9A%80;React+%7C+Next.js+%7C+React+Native+%7C+Node.js;Building+Complete+Digital+Products+End-to-End;Open+to+Freelance+%26+Remote+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
 
 </div>
 
@@ -73,7 +73,7 @@ interface Developer {
 
 const ahmedAqeel: Developer = {
   name: "Ahmed Aqeel",
-  role: ["Full Stack Developer", "AI Application Developer", "Mobile Developer"],
+  role: ["AI Full Stack Developer", "Mobile Developer"],
   architecture: ["Frontend-first", "API-driven", "Serverless", "AI-augmented"],
   currentFocus: ["Cloud & DevOps", "System Design", "Scalable AI Products"],
   philosophy: "Understand the problem first — then build the solution.",
