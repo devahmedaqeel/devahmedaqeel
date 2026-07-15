@@ -33,7 +33,7 @@
 <!-- ===== QUICK NAVIGATION ===== -->
 <div align="center">
 
-**[🧑‍💻 About](#-about-me)** • **[💼 What I Do](#-what-i-do)** • **[🚀 Projects](#-featured-projects)** • **[🛠️ Tech Stack](#%EF%B8%8F-tech-arsenal)** • **[📊 Stats](#-github-analytics)** • **[🐍 Snake](#-contribution-snake)** • **[🎯 Roadmap](#-current-focus--2026-roadmap)** • **[🤝 Hire Me](#-lets-work-together)**
+[![About](https://img.shields.io/badge/%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB%20About-0f172a?style=for-the-badge)](#-about-me) [![What I Do](https://img.shields.io/badge/%F0%9F%92%BC%20What%20I%20Do-0f172a?style=for-the-badge)](#-what-i-do) [![Projects](https://img.shields.io/badge/%F0%9F%9A%80%20Projects-0f172a?style=for-the-badge)](#-featured-projects) [![Tech Stack](https://img.shields.io/badge/%F0%9F%9B%A0%20Tech%20Stack-0f172a?style=for-the-badge)](#%EF%B8%8F-tech-arsenal) [![Stats](https://img.shields.io/badge/%F0%9F%93%8A%20Stats-0f172a?style=for-the-badge)](#-github-analytics) [![Snake](https://img.shields.io/badge/%F0%9F%90%8D%20Snake-0f172a?style=for-the-badge)](#-contribution-snake) [![Roadmap](https://img.shields.io/badge/%F0%9F%8E%AF%20Roadmap-0f172a?style=for-the-badge)](#-current-focus--2026-roadmap) [![Hire Me](https://img.shields.io/badge/%F0%9F%A4%9D%20Hire%20Me-0ea5e9?style=for-the-badge)](#-lets-work-together)
 
 </div>
 
