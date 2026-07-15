@@ -445,16 +445,32 @@ graph LR
 
 ## 🎯 Current Focus & 2026 Roadmap
 
-| Status | Goal |
-| :---: | :--- |
-| 🟢 | Mastering **Docker & containerized deployments** |
-| 🟢 | Building & shipping **AI-powered SaaS products** |
-| 🟡 | Deep-diving into **Kubernetes & cloud architecture (AWS/Azure)** |
-| 🟡 | Strengthening **system design & scalability patterns** |
-| 🔵 | Growing **Dev Orbit Tech** into a full product studio |
-| 🔵 | Contributing to **open-source AI tooling** |
-
-`🟢 In progress` `🟡 Up next` `🔵 Long-term`
+<table width="100%">
+  <tr>
+    <td width="20%" align="center"><img src="https://img.shields.io/badge/In_Progress-10b981?style=for-the-badge" alt="In Progress" /></td>
+    <td>Mastering <b>Docker & containerized deployments</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/In_Progress-10b981?style=for-the-badge" alt="In Progress" /></td>
+    <td>Building & shipping <b>AI-powered SaaS products</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Up_Next-f59e0b?style=for-the-badge" alt="Up Next" /></td>
+    <td>Deep-diving into <b>Kubernetes & cloud architecture (AWS/Azure)</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Up_Next-f59e0b?style=for-the-badge" alt="Up Next" /></td>
+    <td>Strengthening <b>system design & scalability patterns</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Long_Term-3b82f6?style=for-the-badge" alt="Long Term" /></td>
+    <td>Growing <b>Dev Orbit Tech</b> into a full product studio</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Long_Term-3b82f6?style=for-the-badge" alt="Long Term" /></td>
+    <td>Contributing to <b>open-source AI tooling</b></td>
+  </tr>
+</table>
 
 ---
 
