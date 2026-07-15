@@ -333,7 +333,7 @@ graph LR
 
 <br/><br/>
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=devahmedaqeel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
+<img src="https://gh-trophy.cdnsoft.net/?username=devahmedaqeel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies" />
 
 <br/><br/>
 
