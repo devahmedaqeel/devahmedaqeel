@@ -141,14 +141,90 @@ Complete digital solutions for real businesses — e-commerce sites, finance das
 
 ## 🚀 Featured Projects
 
-| 🏷️ Project | 📝 Description | 🛠️ Tech Stack | 🔗 Links |
-| :--- | :--- | :--- | :---: |
-| **🩺 MediReport AI** | Medical lab report scanner — OCR extracts values from lab reports, AI explains results in plain language, with a companion mobile app | `React Native` `OCR` `AI APIs` `Node.js` | [Demo](#) · [Repo](#) |
-| **🤖 JARVIS** | Iron Man–style AI assistant with voice control, automation integrations, and a futuristic animated UI | `React` `Web Speech` `AI APIs` `Three.js` | [Demo](#) · [Repo](#) |
-| **💰 Ledger (OFM)** | Organization finance management platform with interactive charts, reporting, and AI-powered financial forecasting | `React` `Node.js` `Charts` `AI` | [Demo](#) · [Repo](#) |
-| **🍽️ Mensa** | Cloud-based restaurant digital menu management system — real-time menu updates, QR access, and admin dashboard | `Next.js` `Supabase` `Tailwind` | [Demo](#) · [Repo](#) |
-| **🪟 Blinds World Ltd** | Complete business website redesign for a window blinds company — modern, fast, and conversion-focused | `Next.js` `Tailwind` `SEO` | [Demo](#) · [Repo](#) |
-| **🛰️ Dev Orbit Tech** | Agency platform showcasing AI-powered full-stack product development services | `Next.js` `Three.js` `AI` | [Demo](#) · [Repo](#) |
+<table width="100%" border="0" cellpadding="10">
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h3>🩺 MediReport AI</h3>
+      <p>Medical lab report scanner — OCR extracts values from lab reports, AI explains results in plain language, with a companion mobile app.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/OCR-FF9900?style=flat-square" alt="OCR" />
+        <img src="https://img.shields.io/badge/AI_APIs-8E75B2?style=flat-square&logo=anthropic&logoColor=white" alt="AI" />
+      </p>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-36BCF7?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" /></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Source_Code-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+    </td>
+    <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <h3>🤖 JARVIS</h3>
+      <p>Iron Man–style AI assistant with voice control, automation integrations, and a futuristic animated UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/Web_Speech-4285F4?style=flat-square" alt="Web Speech" />
+        <img src="https://img.shields.io/badge/AI_APIs-8E75B2?style=flat-square&logo=anthropic&logoColor=white" alt="AI" />
+      </p>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-36BCF7?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" /></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Source_Code-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" valign="top">
+      <h3>💰 Ledger (OFM)</h3>
+      <p>Organization finance management platform with interactive charts, reporting, and AI-powered financial forecasting.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Charts-FF6C37?style=flat-square" alt="Charts" />
+        <img src="https://img.shields.io/badge/AI_APIs-8E75B2?style=flat-square&logo=anthropic&logoColor=white" alt="AI" />
+      </p>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-36BCF7?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" /></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Source_Code-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+    </td>
+    <!-- Project 4 -->
+    <td width="50%" valign="top">
+      <h3>🍽️ Mensa</h3>
+      <p>Cloud-based restaurant digital menu management system — real-time menu updates, QR access, and admin dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+      </p>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-36BCF7?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" /></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Source_Code-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 5 -->
+    <td width="50%" valign="top">
+      <h3>🪟 Blinds World Ltd</h3>
+      <p>Complete business website redesign for a window blinds company — modern, fast, and conversion-focused.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+        <img src="https://img.shields.io/badge/SEO-2C5364?style=flat-square" alt="SEO" />
+      </p>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-36BCF7?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" /></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Source_Code-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+    </td>
+    <!-- Project 6 -->
+    <td width="50%" valign="top">
+      <h3>🛰️ Dev Orbit Tech</h3>
+      <p>Agency platform showcasing AI-powered full-stack product development services.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
+        <img src="https://img.shields.io/badge/AI_APIs-8E75B2?style=flat-square&logo=anthropic&logoColor=white" alt="AI" />
+      </p>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-36BCF7?style=for-the-badge&logo=safari&logoColor=white" alt="Live Demo" /></a>
+      <a href="#" target="_blank"><img src="https://img.shields.io/badge/Source_Code-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" /></a>
+    </td>
+  </tr>
+</table>
+
 
 <div align="center">
 
