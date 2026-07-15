@@ -45,22 +45,22 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
-
-I'm **Ahmed Aqeel** — a Software Engineering student and **full-stack product builder** who takes ideas from **concept → design → development → deployment**. I work at the intersection of modern web engineering and AI, using intelligent tooling to ship complete, production-ready digital products fast.
+I'm **Ahmed Aqeel** — a Software Engineering student and **AI Full Stack Product Builder** who takes ideas from **concept → design → development → deployment**. I work at the intersection of modern web engineering and AI, using intelligent tooling to ship complete, production-ready digital products fast.
 
 My approach is **logic-driven**: deeply understand the problem, architect the right solution, then execute with precision — whether that's a responsive web platform, a cross-platform mobile app, or an AI-powered system.
 
-- 🎓 **BS Software Engineering** student
-- 🚀 Founder mindset — building **complete digital products end-to-end**
-- 🤖 Specialized in **AI API integrations** (Claude, Gemini, Groq) inside real applications
-- 📱 Cross-platform development with **React Native & Expo**
-- 🌱 Currently leveling up in **Cloud, Docker, Kubernetes & DevOps**
-- 💼 Open to **freelance projects** and **remote roles**
-- 📫 Reach me: **engrahmedaqeel14@gmail.com**
-- ⚡ Fun fact: I believe the best code is the code that solves a real problem
+<br/>
 
-<br clear="right"/>
+| | | | |
+| :--- | :--- | :--- | :--- |
+| 🎓 **Education** | BS Software Engineering Student | 🤖 **AI Specialization** | Claude, Gemini & Groq APIs |
+| 📱 **Mobile Apps** | React Native & Expo Ecosystem | 🌱 **DevOps & Cloud** | Docker, Kubernetes & CI/CD |
+| 💼 **Availability** | Freelance & Remote Roles | 📫 **Get in Touch** | [engrahmedaqeel14@gmail.com](mailto:engrahmedaqeel14@gmail.com) |
+
+<br/>
+
+> ⚡ **Fun Fact:** I believe the best code is the code that solves a real problem.
+
 
 ```typescript
 interface Developer {
