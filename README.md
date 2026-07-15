@@ -9,7 +9,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=700&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%F0%9F%8E%93;AI+Full+Stack+Developer+%F0%9F%A4%96%F0%9F%9A%80;React+%7C+Next.js+%7C+React+Native+%7C+Node.js;Building+Complete+Digital+Products+End-to-End;Open+to+Freelance+%26+Remote+Opportunities+%F0%9F%92%BC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Outfit&weight=700&size=24&duration=2500&pause=800&color=0ea5e9&center=true&vCenter=true&width=700&lines=AI+Full+Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+React+Native+%E2%80%A2+Node.js;Building+Complete+Products+End-to-End;Integrating+Claude%2C+Gemini+%26+OpenAI;Open+for+Freelance+%26+Remote+Work)](https://git.io/typing-svg)
 
 </div>
 
